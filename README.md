@@ -6,6 +6,10 @@ A clean Python data cleaning demo that transforms messy CSV files into structure
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-green)
 ![CSV](https://img.shields.io/badge/Output-CSV-orange)
 
+## Preview
+
+![CSV Cleaner Demo](screenshots/cleaner-demo.png)
+
 ## What this project does
 
 This script loads a messy CSV file, cleans the data, and exports a new cleaned CSV file.
