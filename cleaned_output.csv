@@ -1,0 +1,6 @@
+name,email,city,age
+Alice,alice@example.com,Zurich,28
+Bob,bob@example.com,Basel,0
+Unknown,no_name@example.com,Bern,31
+Charlie,missing@example.com,Geneva,24
+David,david@example.com,Unknown,29
